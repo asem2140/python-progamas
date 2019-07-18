@@ -1,0 +1,20 @@
+#Envio de email
+https://code.tutsplus.com/es/tutorials/sending-emails-in-python-with-smtp--cms-29975
+
+
+# Obtener fecha
+https://www.w3schools.com/python/python_datetime.asp
+
+
+
+# Usar clases en otros archivos
+https://www.youtube.com/watch?v=0v9ATbJTQDc
+
+#Leer la entrada por teclado
+http://www.mclibre.org/consultar/python/lecciones/python-entrada-teclado.html
+
+#Read and write files
+https://realpython.com/python-csv/
+
+#Convertir a minúsculas
+https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/
